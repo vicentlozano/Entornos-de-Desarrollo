@@ -1,3 +1,5 @@
 <?php
-echo "Hola Mundo";
+$nombre=”Vicent Lozano Hervàs”;
+ echo $nombre;
+
 ?>
